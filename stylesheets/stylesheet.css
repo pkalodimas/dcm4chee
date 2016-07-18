@@ -95,7 +95,6 @@ h6 {
 
 p {
   margin: 10px 0 15px 0;
-  text-align: justify;
 }
 
 footer p {
@@ -141,7 +140,6 @@ img {
   padding: 5px;
   margin: 10px 0 10px 0;
   border: 1px solid #ebebeb;
-  text-align: center;
 
   box-shadow: 0 0 5px #ebebeb;
   -webkit-box-shadow: 0 0 5px #ebebeb;
